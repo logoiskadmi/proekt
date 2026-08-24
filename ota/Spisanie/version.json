@@ -1,0 +1,17 @@
+{
+  "product": "Spisanie",
+  "version": "1.0.0",
+  "versionCode": 100,
+  "minVersionCode": 100,
+  "publishedAt": "2026-08-24T00:00:00Z",
+  "mandatory": false,
+  "changelog": "Первая публикация канала обновлений OTA.",
+  "package": {
+    "url": "https://lognet.by/ota/Spisanie/Spisanie-1.0.0.zip",
+    "fileName": "Spisanie-1.0.0.zip",
+    "size": 0,
+    "sha256": "REPLACE_WITH_REAL_SHA256_AFTER_UPLOAD"
+  },
+  "exeName": "Spisanie.exe",
+  "channel": "stable"
+}
